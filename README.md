@@ -66,7 +66,7 @@ I am a passionate **Quality Assurance Engineer** with a deep focus on **Software
 
 ### 📫 Connect with Me
 
-- <a href="https://www.linkedin.com/in/hanif-afianto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/hanif-afianto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 ---
 
