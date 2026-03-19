@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hanif ADN (@hanif-afianto)
+# 👋 Hi, I'm Hanif ADN
 
 ### 🚀 QA Automation Engineer | SDET | Builder of Productivity Tools
 
