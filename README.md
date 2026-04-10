@@ -68,7 +68,7 @@ Known for a developer-centric mindset and a keen interest in productivity. Beyon
 
 ---
 ### 🏆 Codewars Stats
-[![Codewars](https://www.codewars.com/users/hanifadn/badges/small)](https://www.codewars.com/users/hanifadn)
+[![Codewars](https://www.codewars.com/users/hanifadn/badges/large)](https://www.codewars.com/users/hanifadn)
 
 ### 📫 Connect with Me
 
