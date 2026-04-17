@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Hanif ADN
 
-### 🚀 QA Automation Engineer | SDET | Builder of Productivity Tools
+## QA Automation Engineer | SDET | Builder of Productivity Tools
+
+## About me
 
 Detail-oriented and passionate **QA Automation Engineer / SDET** with a strong focus on building robust automation frameworks. Skilled in designing comprehensive test strategies and engineering scalable solutions that ensure software reliability and optimize developer efficiency.
 
@@ -8,11 +10,15 @@ Successfully contributed to high-quality product releases by maintaining extensi
 
 Known for a developer-centric mindset and a keen interest in productivity. Beyond core testing, I am a builder who enjoys crafting powerful CLI tools in **Go** and **TypeScript** to automate complex, repetitive workflows and streamline development life cycles.
 
----
+## Current learning focus
 
-### 🛠️ Tech Stack & Skills
+- **Svelte & SvelteKit** — Building fluency with the compiler-first UI model, routing, and full-stack patterns for lean, fast frontends.
+- **AI for QA** — Applying AI in quality engineering in a practical way: **MCP** integrations tailored to each test stack, plus **AI-assisted utilities** that speed triage, exploration, and repeatable QA workflows without replacing sound test design.
 
-#### 💻 Programming Languages & Frameworks
+## Tech stack
+
+### Programming languages & frameworks
+
 <p align="left">
   <a href="https://dev.java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
@@ -23,7 +29,8 @@ Known for a developer-centric mindset and a keen interest in productivity. Beyon
   <a href="https://go.dev"><img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" /></a>
 </p>
 
-#### 🧪 Automation Frameworks
+### Automation frameworks
+
 <p align="left">
   <a href="https://www.selenium.dev"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" /></a>
   <a href="https://www.cypress.io"><img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" /></a>
@@ -34,14 +41,16 @@ Known for a developer-centric mindset and a keen interest in productivity. Beyon
   <a href="https://karatelabs.io"><img src="https://img.shields.io/badge/Karate-D22128?style=for-the-badge&logo=karate&logoColor=white" alt="Karate" /></a>
 </p>
 
-#### 🔌 API Testing
+### API testing
+
 <p align="left">
   <a href="https://www.postman.com"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
   <a href="https://insomnia.rest"><img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" /></a>
   <a href="https://www.soapui.org"><img src="https://img.shields.io/badge/SoapUI-2E2E2E?style=for-the-badge&logo=smartbear&logoColor=white" alt="SoapUI" /></a>
 </p>
 
-#### 🗄️ Database Testing
+### Database testing
+
 <p align="left">
   <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
   <a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" /></a>
@@ -49,8 +58,11 @@ Known for a developer-centric mindset and a keen interest in productivity. Beyon
   <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
 </p>
 
-#### 🎨 Frontend Development
+### Frontend development
+
 <p align="left">
+  <a href="https://svelte.dev"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" /></a>
+  <a href="https://kit.svelte.dev"><img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit" /></a>
   <a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" /></a>
   <a href="https://nuxt.com"><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" /></a>
   <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
@@ -60,22 +72,15 @@ Known for a developer-centric mindset and a keen interest in productivity. Beyon
   <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
 </p>
 
-#### ⚡ Performance Testing
+### Performance testing
+
 <p align="left">
   <a href="https://jmeter.apache.org"><img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter" /></a>
   <a href="https://k6.io"><img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="K6" /></a>
 </p>
 
----
-### 🏆 Codewars Stats
+## Links
+
 [![Codewars](https://www.codewars.com/users/hanifadn/badges/large)](https://www.codewars.com/users/hanifadn)
 
-### 📫 Connect with Me
-
 <a href="https://www.linkedin.com/in/hanif-afianto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
----
-
-<p align="center">
-  <i>"Automating the present to build a more reliable future."</i>
-</p>
