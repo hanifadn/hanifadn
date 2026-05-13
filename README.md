@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hanif ADN
 
-## QA Automation Engineer | SDET | Builder of Productivity Tools
+## SDET | QA Engineer | Builder of Productivity Tools
 
 ## About me
 
